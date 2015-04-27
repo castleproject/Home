@@ -214,7 +214,7 @@ private int port;
 
 ## Others
 ### String
-Prefer `String` instead of `string`, although this is not required.
+Prefer `string` instead of `String` (i.e. `System.String`), the C# alias should always be used.
 
 ### C style code
 Avoid it like hell. Code like the following should not be on the code base:
