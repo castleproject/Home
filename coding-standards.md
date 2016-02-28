@@ -6,7 +6,7 @@ The following establishes the basis of Castle coding standard. Please, be a nice
 
 ## Indentation
 
-It was recently discussed and decided that all files (source code, xml and html) **must use tabs** for indentation. If you use ReSharper, it will probably configure itself to match this when you open a project solution from Castle source repository.
+It was recently discussed and decided that all files (source code, xml and html) **must use tabs** for indentation. It's possible to change these settings in Visual Studio in Tools/Options/Text Editor/&lt;language&gt;/Tabs. But these settings are global and will affect all projects. The [EditorConfig](https://visualstudiogallery.msdn.microsoft.com/c8bccfe2-650c-4b42-bc5c-845e21f96328) extension allows the settings to be specified on a solution-by-solution (or project-by-project) basis. Some Castle projects have a corresponding .editorconfig file, and should pick up the indentation settings automatically.
 
 ## Header
 
