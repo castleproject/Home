@@ -4,7 +4,7 @@
 
 <img align="right" src="images/castle-logo.png">
 
-**Castle** is an **open source** project for .NET and Silverlight that aspires to simplify the development of enterprise and web applications. Offering a set of tools (working together or independently) and integration with other open source projects, **Castle** helps you get more done with less code and in less time.
+**Castle** is an **open source** project for .NET that aspires to simplify the development of enterprise and web applications. Offering a set of tools (working together or independently) and integration with other open source projects, **Castle** helps you get more done with less code and in less time.
 
 ## Projects
 
