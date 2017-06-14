@@ -1,7 +1,5 @@
 # Castle Project
 
-[![Join the chat at https://gitter.im/castleproject/all](https://badges.gitter.im/castleproject/all.svg)](https://gitter.im/castleproject/all?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ## What is Castle Project?
 
 <img align="right" src="images/castle-logo.png">
@@ -54,6 +52,7 @@ Castle's source code [is available](https://github.com/castleproject). You can l
 
 Castle has a vibrant community of users that contribute back to the project by:
 
+* [![Join the chat at https://gitter.im/castleproject/all](https://badges.gitter.im/castleproject/all.svg)](https://gitter.im/castleproject/all?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * [Answering questions](http://stackoverflow.com/questions/tagged?tagnames=castle+or+castle-windsor+or+castle-activerecord+or+castle-dynamicproxy+or+castle-monorail&amp;sort=newest)
 * [Suggesting features](http://castle.uservoice.com/)
 * [Discussing its future directions](http://groups.google.com/group/castle-project-devel)
