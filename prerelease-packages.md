@@ -1,3 +1,5 @@
+:warning: **Pre-Release Feed Unavailable:** As of 2017-06-11 we no longer use TeamCity for our builds and this server has been decommissioned, therefore the NuGet package feed is no longer available.
+
 # Getting Pre-Release Castle Packages
 
 Released versions of the various Castle projects are published to public feeds on [NuGet](http://www.nuget.org) (the recommended way to consume Castle projects) or can be downloaded directly from the GitHub Releases pages for [Castle Core](https://github.com/castleproject/Core/releases) and [Castle Windsor](https://github.com/castleproject/Windsor/releases). However, sometimes clients may need functionality or bug fixes that have been built, but are not yet released, so the Castle Project provides access to pre-release builds as they are produced by the continuous integration server.
