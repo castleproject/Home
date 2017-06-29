@@ -32,9 +32,9 @@
 
 [Castle Transaction Services and Windsor Automatic Transaction Management Facility](https://github.com/castleproject/Castle.Transactions).
 
-### Castle Contrib
+### Deprecated
 
-Outside of Castle Project there's a bunch of so called [contrib projects](https://github.com/castleprojectcontrib) that are not part of Castle Project but add or alter its functionality.
+Over the years the Castle Project has built and supported many projects as well as supported the community by hosting "contrib" projects, all deprecated repositories now live in the [Castle Project Deprecated GitHub organization](https://github.com/castleproject-deprecated)
 
 ## Castle is free
 
